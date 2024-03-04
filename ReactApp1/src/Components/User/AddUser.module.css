@@ -22,12 +22,3 @@
   outline: none;
   border-color: #4f005f;
 }
-.input button{
-    border-radius: 5px;
-    background-color: rgba(127, 58, 218, 0.849);
-    font-size: 15px;
-    padding: 5px 10px;
-    color: white;
-    margin-top: 10px;
-
-}
